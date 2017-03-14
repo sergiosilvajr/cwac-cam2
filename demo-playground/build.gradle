@@ -14,6 +14,7 @@ dependencies {
     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
     debugCompile project(':cam2')
     releaseCompile 'com.commonsware.cwac:cam2:0.7.5'
+    compile 'com.android.support:appcompat-v7:23.1.0'
 }
 
 android {
