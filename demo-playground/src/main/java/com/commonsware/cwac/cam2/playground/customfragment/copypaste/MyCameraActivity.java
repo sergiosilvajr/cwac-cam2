@@ -12,7 +12,7 @@
  limitations under the License.
 */
 
-package com.commonsware.cwac.cam2.playground.customfragment.camera;
+package com.commonsware.cwac.cam2.playground.customfragment.copypaste;
 
 import android.Manifest;
 import android.content.Context;

@@ -45,11 +45,18 @@
     </provider>
 
     <activity
-        android:name=".customfragment.camera.MyCameraActivity"
+        android:name=".customfragment.copypaste.MyCameraActivity"
         />
     <activity
         android:name=".customfragment.MainActivityWithCamera"
         android:theme="@style/Theme.AppCompat.Light">
+
+    </activity>
+
+    <activity android:name=".customfragment.camera_extension.CustomCameraActivity">
+    </activity>
+
+    <activity android:name=".customfragment.MainActivityCustomCamera">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
 

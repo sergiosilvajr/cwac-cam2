@@ -1,4 +1,4 @@
-package com.commonsware.cwac.cam2.playground.customfragment.camera;
+package com.commonsware.cwac.cam2.playground.customfragment.copypaste;
 
 import android.app.ActionBar;
 import android.net.Uri;

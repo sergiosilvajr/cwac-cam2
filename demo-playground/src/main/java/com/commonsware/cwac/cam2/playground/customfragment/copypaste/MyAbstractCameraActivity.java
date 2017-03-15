@@ -1,4 +1,4 @@
-package com.commonsware.cwac.cam2.playground.customfragment.camera;
+package com.commonsware.cwac.cam2.playground.customfragment.copypaste;
 
 import android.annotation.TargetApi;
 import android.app.ActionBar;
@@ -16,7 +16,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.Window;
 
 import com.commonsware.cwac.cam2.AbstractCameraActivity;
 import com.commonsware.cwac.cam2.CameraController;

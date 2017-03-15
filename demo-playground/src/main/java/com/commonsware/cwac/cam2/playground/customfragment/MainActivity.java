@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.commonsware.cwac.cam2.playground.R;
-import com.commonsware.cwac.cam2.playground.customfragment.camera.MyCameraActivity;
+import com.commonsware.cwac.cam2.playground.customfragment.copypaste.MyCameraActivity;
 
 
 public class MainActivity extends AppCompatActivity {
